@@ -1,0 +1,5 @@
+supabase
+dotenv
+streamlit
+werkzeug
+pandas
